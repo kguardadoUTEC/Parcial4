@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:parcial4/services/firebase.dart';
 
-class UpdateUser extends StatefulWidget {
-  const UpdateUser({super.key});
+class UpdateVehiculo extends StatefulWidget {
+  const UpdateVehiculo({super.key});
 
   @override
-  State<UpdateUser> createState() => _UpdateUserState();
+  State<UpdateVehiculo> createState() => _UpdateVehiculoState();
 }
 
-class _UpdateUserState extends State<UpdateUser> {
+class _UpdateVehiculoState extends State<UpdateVehiculo> {
   TextEditingController vehiculoController = TextEditingController(text: "");
   @override
   Widget build(BuildContext context) {

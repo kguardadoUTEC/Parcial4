@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:parcial4/services/firebase.dart';
 
-class UpdateUser extends StatefulWidget {
-  const UpdateUser({super.key});
+class DeleteClient extends StatefulWidget {
+  const DeleteClient({super.key});
 
   @override
-  State<UpdateUser> createState() => _UpdateUserState();
+  State<DeleteClient> createState() => _DeleteClientState();
 }
 
-class _UpdateUserState extends State<UpdateUser> {
+class _DeleteClientState extends State<DeleteClient> {
   TextEditingController clientController = TextEditingController(text: "");
   @override
   Widget build(BuildContext context) {
