@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334003089947",
+    "project_id": "parcial4-a7329",
+    "storage_bucket": "parcial4-a7329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334003089947:android:e22ba331fbcf2fc72fbebe",
+        "android_client_info": {
+          "package_name": "com.utecapp.parcial4kguardado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334003089947-ueq51etrnbflslt7nt6p538f9gie20up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxcWUyNChs8xXV9uE8-HiOHlKSnCQrA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334003089947-ueq51etrnbflslt7nt6p538f9gie20up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
